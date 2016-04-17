@@ -1,0 +1,10 @@
+{
+	"sample":[
+			{	"name":"Weather1",
+						"data":"Current weather is 60 degrees farenheits"
+								},
+										{	"name":"Humidity",
+													"data":"Current humidity is sixty percent"
+															}
+																]
+																}

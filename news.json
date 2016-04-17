@@ -1,0 +1,13 @@
+{  
+   "sample":[  
+         {  
+	          "name":"Event1",
+		           "data":"A powerful 7.8 magnitude earthquake in Ecuador has killed at least 77 people and injured more than 500"
+			         },
+				       {  
+				                "name":"Event2",
+						         "data":"Ted Cruz sweeps Wyoming Republican Convention"
+							       }
+							          ]
+								  }
+
